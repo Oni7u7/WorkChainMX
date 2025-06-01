@@ -2,6 +2,10 @@
 
 Plataforma de microcréditos descentralizados construida con React y Polkadot.
 
+## Repositorio de la Documentacion
+
+[GitHub WorkChainMX](https://github.com/WorkchainMX/WorkchainMX/tree/main)
+
 ## Características
 
 - Autenticación segura con Polkadot
