@@ -98,6 +98,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## Contacto
 
 Diego/Onii - [@s_onii7u7](https://x.com/s_onii7u7) - [Correo](natsugameplay82@gmail.com)
+
+## Contacto WorkChainMX
 WorkChainMx - [X](https://x.com/WorkChainMX4768) - [YouTube](https://youtube.com/@workchainmx?si=-7Tu0VGszmtEeDkE) - [Instagram](https://www.instagram.com/worchain1?igsh=MXhvdm5ieHdpbGl1eg==) - [Facebook](https://www.facebook.com/share/19TssjvMSt/) - [Correo](worchain1@gmail.com)
 
-Link del Proyecto: [https://github.com/tu-usuario/workchainmx](https://github.com/tu-usuario/workchainmx)
+
+Link del Proyecto: [workchainmx](https://github.com/Oni7u7/WorkChainMX)
