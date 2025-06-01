@@ -65,12 +65,17 @@ workchainmx/
 ├── index.html         # Punto de entrada HTML
 └── package.json       # Dependencias y scripts
 ```
+
 ##Herramientas usadas
 
 Remix para deployar contratos: https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js
+
 Metamask con la red de Moonbase Alpha (tokens de prueba)
+
 ChainsList: https://chainlist.org/chain/1287
+
 Cursor
+
 
 ## Consulta de Contratos usando MoonBase
 
