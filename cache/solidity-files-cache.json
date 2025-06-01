@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\PC\\Downloads\\WorkChainMX\\contracts\\NativeLoanWithPenalty.sol": {
+      "lastModificationDate": 1748762462716,
+      "contentHash": "c164e115f0a114bd83647b91c1d4f955",
+      "sourceName": "contracts/NativeLoanWithPenalty.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "NativeLoanWithPenalty"
+      ]
+    },
+    "C:\\Users\\PC\\Downloads\\WorkChainMX\\contracts\\ImageUploader.sol": {
+      "lastModificationDate": 1748755867908,
+      "contentHash": "df08bbe48f3f3579a3c23a35ffae9efe",
+      "sourceName": "contracts/ImageUploader.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ImageUploader"
+      ]
+    }
+  }
+}
